@@ -1,20 +1,12 @@
 {
-  "author": "Spell Compendium",
   "name": "Spell Compendium",
-  "description": "Browse and search D&D 5e SRD spells (including 2024 edition) directly inside Owlbear Rodeo.",
   "version": "1.0.0",
-  "listing": {
-    "name": "Spell Compendium",
-    "description": "A full D&D 5e spell reference powered by Open5e. Search by name, filter by level, school, or class. Full spell descriptions always at your fingertips.",
-    "preview": "https://raw.githubusercontent.com/YOUR_USERNAME/obr-spell-compendium/main/preview.png"
-  },
+  "manifest_version": 1,
   "action": {
     "title": "Spell Compendium",
-    "icon": "icon.svg",
-    "popover": {
-      "url": "index.html",
-      "height": 580,
-      "width": 380
-    }
+    "icon": "/icon.svg",
+    "popover": "/index.html",
+    "height": 580,
+    "width": 380
   }
 }
