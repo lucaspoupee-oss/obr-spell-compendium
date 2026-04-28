@@ -4,8 +4,8 @@
   "manifest_version": 1,
   "action": {
     "title": "Spell Compendium",
-    "icon": "/icon.svg",
-    "popover": "/index.html",
+    "icon": "https://lucaspoupee-oss.github.io/obr-spell-compendium/icon.svg",
+    "popover": "https://lucaspoupee-oss.github.io/obr-spell-compendium/index.html",
     "height": 580,
     "width": 380
   }
